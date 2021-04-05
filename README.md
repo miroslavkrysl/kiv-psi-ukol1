@@ -24,7 +24,7 @@ You can install Rust toolchain with your preferred way, but the simplest way
 is to install Rust via `rustup` (https://rustup.rs/). You should follow instructions
 on the website and then instructions in the installation script.
 
-If you have Rust installed, just run:
+If you have Rust installed, just run in project root:
 
 `cargo run` for building and running.
 
